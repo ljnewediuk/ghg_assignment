@@ -13,6 +13,7 @@ Required packages and versions:
 * bayesplot v1.10.1
 * performance v0.10.9
 * bayestestR v0.13.2
+* cowplot v1.1.3
 
 Note that brms must be installed in the following steps:
 
