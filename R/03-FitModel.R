@@ -1,4 +1,7 @@
 
+##################################################################
+# 03 - PARAMETER SELECTION, FIT MODELS, TEST MODEL FIT, AND PLOT #
+##################################################################
 
 # This script has four parts:
 

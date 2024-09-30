@@ -1,4 +1,8 @@
 
+#######################################
+# 02 - PLOT AUTOCORRELATION FUNCTION #
+######################################
+
 # This script has four parts:
 
 # 1 - Setting up the environment (loading libraries, functions, etc.)
