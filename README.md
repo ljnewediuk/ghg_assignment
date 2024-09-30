@@ -26,7 +26,7 @@ The data required to run the code is intentionally excluded from the project.
 
 Scripts include:
 
-01 - Cleaning and visualizing the data
-02 - Plotting the autocorrelation function to visualize autocorrelation in the time series
-03 - Modeling parameter selection, fitting, predicting from the posterior predictive distribution, and plotting the model
+* 01 - Cleaning and visualizing the data
+* 02 - Plotting the autocorrelation function to visualize autocorrelation in the time series
+* 03 - Modeling parameter selection, fitting, predicting from the posterior predictive distribution, and plotting the model
 
