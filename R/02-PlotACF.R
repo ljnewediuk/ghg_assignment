@@ -79,9 +79,9 @@ max_acf_lag <- grouped_acf_values %>%
   # Now joining the lag data to translate lags into days
   left_join(lag_data)
 
-# Set the first day to zero and minimum ACF = -1
+# Set the first day to zero and minimum ACF = 0
 max_acf_lag[1,]$Days <- 0
-max_acf_lag[1,]$min_ACF <- -1
+max_acf_lag[1,]$min_ACF <- 0
 
 ##########################
 # 4 - Create the plot ====
